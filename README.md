@@ -8,3 +8,5 @@ If you have any questions, feel free to DM me on discord: `gkay`
 
 ## Disclaimer
 Please **don't** use this 3ds solver and just input your information to run it. Since it is using the old endpoints it could result in banning your account! Use this repo at your own risk.
+
+Thank you to [Jello]() and [Csource](https://twitter.com/iamcsource)
